@@ -60,25 +60,27 @@
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
+
 <br>
 
 <div align="center">
 
-<img width="390"
-src="https://github-readme-streak-stats.herokuapp.com/?user=MimAkter31&theme=react&border_radius=10"
-/>
+  <img width="49%"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=MimAkter31&theme=react&hide_border=false"
+  />
 
-<img width="390"
-src="https://github-readme-stats.vercel.app/api?username=MimAkter31&show_icons=true&theme=react&rank_icon=github&border_radius=10&cache_seconds=1800"
-/>
+  <img width="49%"
+       src="https://github-readme-stats.vercel.app/api?username=MimAkter31&show_icons=true&theme=react&hide_border=false&include_all_commits=true&count_private=true"
+  />
 
-<br/><br/>
+  <br/><br/>
 
-<img width="325"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=MimAkter31&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&cache_seconds=1800"
-/>
+  <img width="40%"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MimAkter31&layout=compact&theme=react&hide_border=false"
+  />
 
 </div>
 
 <br/><br/>
+
 <hr/>
