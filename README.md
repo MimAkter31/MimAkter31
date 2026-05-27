@@ -12,9 +12,9 @@
  
  🔭 I’m currently working on **MERN Stack Projects**
  
- 🌱 I’m currently learning **Docker, Advanced React, AWS**
+ 🌱 I’m currently learning **Advanced React, AWS**
 
-💬 Ask me about **Node.js, React, MongoDB... or anything [here](https://github.com/MimAkter31)**
+💬 Ask me about **Node.js, React, MongoDB... or anything [here](mailto:mimakter.de@gmail.com)**
 
 ⚡ Fun fact **I love building responsive and creative web applications**
 
